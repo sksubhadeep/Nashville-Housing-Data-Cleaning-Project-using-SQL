@@ -14,4 +14,4 @@ The data cleaning process in SQL involves several steps to ensure the quality an
 
 7. **Delete Unused Columns:** Unnecessary or redundant columns have been deleted from the Nashville dataset. This can help reduce the dataset's size, improve query performance, and focus analysis on relevant information.
 
-Overall, these steps collectively represent a comprehensive data cleaning process in SQL, designed to enhance the dataset's quality, consistency, and usability for subsequent analysis and reporting.
+Overall, these steps collectively represent a comprehensive data cleaning process in SQL, designed to enhance the dataset's quality, consistency, and usability for subsequent analysis and reporting. 
